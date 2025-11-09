@@ -8,10 +8,6 @@ import static model.Sueldo.*;
  * Clase principal donde se ejecutará la impresión de los datos de los empleados.
  * Funciona tomando la clase Empleado que tiene la clase Sueldo y Direccion anidada en ella.
  * Ya con esto, se permitirá al usuario agregar empleados en el futuro.
- * TODO:
- *  Creacion de metodo toString() en las clases Empleado, Sueldo y Direccion LISTO
- *  Grabar el video de la funcionalidad
- *  Sacar pantallazo del sout()
  */
 public class Main {
     public static void main (String[] args) {
@@ -40,3 +36,4 @@ public class Main {
     }
 
 }
+
